@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="Pagina de enseñanza html15" />
+    <meta name="viewport" cntent="width=device-width, initial-scale=1.0">
+    <title>caferia esencia de cafe </title>
+</head>
+</body>
+
+<center>
+
+<header class="hear">
+    <div class="menu container">
+        <a href="th.jpeg" class="logo">logo</a>
+        <label>
+
+            <nav class="navbar">
+                <ul>
+                    <li><a href="https://esenciadecafe.my.canva.site/esenciademycafe" target="_blank">Inicio</a></li>
+                    <li><a href="cafes.jpeg">productos</a></li>
+                    <li><a href="inf.jpeg">contacto</a></li>
+                </ul>
+            </nav>
+    </div>
+    <div class="head-content container">
+
+        <h1>ESENCIA DE CAFE</h1>
+        <p>
+        </p>
+        <a href="inf.jpeg" class="btn-1">Informacion</a>
+    </div>
+</header>
+
+<section class="coffee-group">
+
+    <img src="Home.jpg" width="900" height="600" />
+    <div class="coffe-content contacto">
+
+        <h2>Los diferentes tips de cafe </h2>
+        <p class="txt-p">
+        </p>
+
+
+        <div class="coffee-1">
+            <img src="cafes.jpeg" width="400" height="400" />
+            <img src="receta1.jpeg " widt="400" height="300 " />
+           <img src="receta2.jpeg" widt="400" height="300 " />
+           <img src="receta 3.jpeg" width="400" height="300"/>
+           <div>
+            
+    <div>
+ 
+        <div class="coffee-2">
+            <img src="p1.jpeg" idth="500" height="300" />
+            <h3>cafe esencia<h3>
+                <p>
+                </p>
+                
+        <div class="coffee-3">
+            <img src="inf.jpeg" idth="500" height="300" />
+            <h3>cafe esencia <h3>
+                <br>
+            </section>
+<div class="services-content container">
+    <h2>cafeteria servicios</h2>
+
+    <div class="services-group">
+        <div class="services-1">
+            <img src=""  widt="400" height="300 " />
+        <h3>servicio 1 </h3>
+     </div>
+<div class="services-1">
+    <img src=""  widt="400" height="300 " />
+    <img src=""  widt="400" height="300 " />
+    <h3>servicio 2 </h3>
+</div>
+<div class="services-1">
+    <img src="WhatsApp Image 2024-02-28 at 12.12.13 AM (4).jpeg"  widt="400" height="300 " />
+    <h3>servicio 3 </h3>
+</div>
+    </div>
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Corrupti veritatis laborum sed voluptates ad quisquam aliquid deleniti enim!
+         Error debitis ducimus fuga minus eveniet ex pariatur voluptas in magni a?
+    </p>
+    <a href="#"  class="btn-1"> Informacion</a>
+</div>
+</main>
+<section class="general">
+ <div class="general-1">
+    <h2>totam similique</h2>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+         Harum doloribus vitae nemo sit, laudantium quae libero cum
+          reiciendis atque praesentium odio voluptatibus deleniti inventore. 
+          Ut assumenda necessitatibus libero culpa ratione.
+    </p>
+    
+    <a href="#"  class="btn-1"> Informacion</a>
+ </div> 
+ 
+ <div class="general-2"></div>
+</section>
+
+<section class="general1">
+<div class="general-3">
+    <div class="general-1">
+       <h2>totam similique</h2>
+       <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+            Harum doloribus vitae nemo sit, laudantium quae libero cum
+             reiciendis atque praesentium odio voluptatibus deleniti inventore. 
+             Ut assumenda necessitatibus libero culpa ratione.
+       </p>
+       
+       <a href="Landing Page.jpeg"  class="btn-1"> Informacion</a>
+    </div> 
+    
+    <div class="general-2"></div>
+   </section>
+   <footer class="footer">
+    <div class="link">
+        <h3>Lorem</h3>
+    <ul>
+        <li><a href="#">lorem</a></li>
+        <li><a href="#">lorem</a></li>
+        <li><a href="#">lorem</a></li>
+        <li><a href="#">lorem</a></li>
+    </ul>
+    </div>
+    <div class="link">
+        <h3>Lorem</h3>
+    <ul>
+        <li><a href="#">lorem</a></li>
+        <li><a href="#">lorem</a></li>
+        <li><a href="#">lorem</a></li>
+        <li><a href="#">lorem</a></li>
+    </ul>
+    </div>
+    <div class="link">
+        <h3>Lorem</h3>
+    <ul>
+        <li><a href="#">lorem</a></li>
+        <li><a href="#">lorem</a></li>
+        <li><a href="#">lorem</a></li>
+        <li><a href="#">lorem</a></li>
+    </ul>
+    </div>
+    <div class="link">
+        <h3>contactos</h3>
+    <ul>
+        <li><a href="https://esenciadecafe.my.canva.site/esenciademycafe" target="_blank">esenciadecafe</a></li>
+        <li><a href="esenciadecafe@gmail.com"target="_blank">correo</a></li>
+        <li><a href="https://www.facebook.com/people/Esencia-Caffe/pfbid02UpExSnRUi2jPFyYHowCiwUPoPEk949gfuMVspofBkMwzF5W21djoeqdTjGtaYbzol/?mibextid=ZbWKwL"target="_blank">facebook</a></li>
+        <li><a href="https://www.instagram.com/esenciade_caffe?igsh=d3R4aGVvOHFwcjI1"target="_blank">instagram</a></li>
+    </ul>
+    </div>
+</footer>
+    <div>
+    </center>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        text-decoration: none;
+        list-style:nome;
+         }
+         body{
+            font-family: poppins,sans-serif;
+        }
+        .container {
+            max-width:  12000px;
+            margin: 0 auto;
+        
+        }
+        .hearder{
+            background-image:linear-gradient(
+                rgba(0,0,0,0,7),
+                rgba(0,0,0,0,7)),url(WhatsApp\ Image\ 2024-02-22\ at\ 4.38.54\ PM.jpeg);
+                background-position:center bottom ;
+                background-repeat: no-repeat;
+                background-size: cover;
+                min-height: 70vh;
+                display: flex;
+                align-items:center;
+            
+        }
+        .menu {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .logo {
+            color: aliceblue;
+            font-size: 25px;
+            font-weight: 800;
+        
+        }
+        .menu .navbar ul li{
+            position: relative;
+        float:left;
+        
+        }
+        .menu .navbar ul li a {
+            font-size: 18px;
+            padding: 20px;
+            color: aqua;
+        display: block;
+        font-weight: 600;
+        }
+        
+        .menu .navbar ul li a:hover{
+            color: aqua;
+        
+        }
+        #menu {
+            display: none;
+        }
+        .menu-icono{
+            width: 25px;
+        }
+        .menu-icono{
+            width: 25px;
+        
+        }
+        .menu label{
+            width: 25px;
+        display: none;
+        
+        }
+        .header-conten{
+            text-align:center;
+        }
+        .header-conten{
+            font-size:75px;
+            line-height: 80px;
+            color: aliceblue;
+            padding:0 250px;
+            margin-bottom: 25px;
+        }
+        
+        .header-conten p{
+            font-size :16px;
+            color:aliceblue;
+        display: block;
+        font-weight: 600;
+        }
+        
+        .btn-1{
+            display: inline-block;
+            padding:11px 35px;
+            background-color: aqua;
+            color: aliceblue;
+            text-transform: uppercase;
+        }
+        .btn-1:over {
+            background-color: aqua;
+        }
+        
+        .coffe-1 {
+        padding: 100px 0;
+        background-color: aliceblue;
+        position: relative;
+        }
+        .coffee-content{
+            text-align: center;
+        }
+        .coffee-content h2{
+            font-size: 55px;
+            line-height: 70px;
+            color: black;
+            text-transform:uppercase ;
+            padding: 0 250px;
+            margin-bottom: 15px;
+        }
+        .txt-p{
+        font-size:16px;
+        color: black;
+        padding: 0 250px;
+        margin-bottom: 35px;
+        }
+        .coffee-group{
+        width: 200px;
+        }
+        .coffee-img{
+            position: absolute;
+            top: 0;
+            right: 0;
+        }
+                </style>
+                
+            </section>
+        
+                  
